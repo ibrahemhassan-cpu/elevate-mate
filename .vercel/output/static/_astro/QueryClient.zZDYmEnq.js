@@ -1,1 +1,0 @@
-import{j as t}from"./jsx-runtime.u17CrQMm.js";import{Q as r,a as n}from"./QueryClientProvider.BN7uAVy2.js";const o=new r({defaultOptions:{queries:{staleTime:1e3*60*5,refetchOnWindowFocus:!1,refetchOnMount:!1}}});function a({children:e}){return t.jsx(n,{client:o,children:e})}export{a as default};
